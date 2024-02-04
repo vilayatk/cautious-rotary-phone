@@ -1,7 +1,8 @@
 #include <iostream>
+#include "Leet_one.cpp"
 
 int main()
 {
-    std::cout << "Hello Leet 75!";
+    std::cout << mergeAlternately("abc", "prq");
     return 0;
 }
