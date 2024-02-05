@@ -1,4 +1,3 @@
-#include <string>
 using namespace std;
 
 string mergeAlternately(string word1, string word2)
